@@ -49,3 +49,6 @@ $ firebase init
 $ npm run build 
 $ firebase deploy
 ```
+
+## 4. 結果の集計
+[mos-form-analyze](https://github.com/ys-gh/mos-form-analyze)
